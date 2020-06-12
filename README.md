@@ -1,15 +1,15 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE.md)
 ![Python 3.7](https://img.shields.io/badge/python-3.7-green.svg)
 
-# Unsupervised Writer Adaptation for Synthetic-to-Real Handwritten Word Recognition
+# Unsupervised Adaptation for Synthetic-to-Real Handwritten Word Recognition
 
 An unsupervised writer adaptation approach that is able to automatically adjust a generic handwritten word recognizer, fully trained with synthetic fonts, towards a new incoming writer.
 
 ![Architecture](https://user-images.githubusercontent.com/9562709/78949930-7ea75000-7acd-11ea-9e11-d081fbcd50a5.png)
 
-[Unsupervised Writer Adaptation for Synthetic-to-Real Handwritten Word Recognition](http://openaccess.thecvf.com/content_WACV_2020/papers/Kang_Unsupervised_Writer_Adaptation_for_Synthetic-to-Real_Handwritten_Word_Recognition_WACV_2020_paper.pdf)<br>
+[Unsupervised Adaptation for Synthetic-to-Real Handwritten Word Recognition](https://ieeexplore.ieee.org/abstract/document/9093392)<br>
 Lei Kang, Marçal Rusiñol, Alicia Fornés, Pau Riba, and Mauricio Villegas<br>
-In The IEEE Winter Conference on Applications of Computer Vision, pp. 3502-3511. 2020.
+2020 IEEE Winter Conference on Applications of Computer Vision (WACV), Snowmass Village, CO, USA, 2020, pp. 3491-3500, doi: 10.1109/WACV45572.2020.9093392.
 
 ## Software environment:
 
@@ -51,10 +51,11 @@ If you use the code for your research, please cite our paper:
 
 ```
 @inproceedings{kang2020unsupervised,
-  title={Unsupervised Writer Adaptation for Synthetic-to-Real Handwritten Word Recognition},
-    author={Kang, Lei and Rusi{\~n}ol, Mar{\c{c}}al and Forn{\'e}s, Alicia and Riba, Pau and Villegas, Mauricio},
-      booktitle={The IEEE Winter Conference on Applications of Computer Vision},
-        pages={3502--3511},
-          year={2020}
+  title={Unsupervised Adaptation for Synthetic-to-Real Handwritten Word Recognition},
+  author={Kang, Lei and Rusi{\~n}ol, Mar{\c{c}}al and Forn{\'e}s, Alicia and Riba, Pau and Villegas, Mauricio},
+  booktitle={2020 IEEE Winter Conference on Applications of Computer Vision (WACV)},
+  pages={3491--3500},
+  year={2020},
+  organization={IEEE}
 }
 ```
